@@ -33,25 +33,29 @@ This project is a dynamic, interactive **Custom Event Calendar** built with Reac
    git clone https://github.com/yourusername/custom-event-calendar.git
    cd custom-event-calendar
 2. **Install dependencies:**
+   ```bash
    npm install react react-dom react-scripts
    npm install date-fns
    npm install react-dnd react-dnd-html5-backend
-   or **simply run:**
-  ```bash
-  npm install
-3. Run the development server:
-   npm start
 
-4. Open the app:
+3. **simply run:**
+   ```bash
+   npm install
+4. **Run the development server:**
+   ```bash
+   npm start
+   ---
+
+5.**Open the app:**
    Open http://localhost:3000 in your browser to view the calendar.
-5. Usage:
+6. **Usage:**
     Navigate through months using the arrow buttons.
     Click on any date to add a new event.
     Fill in the event form with title, time, description, recurrence, and optional color.
     Click on an event to edit or delete it.
     Drag and drop events to reschedule.
     Events are automatically saved and loaded from your browser’s local storage.
-6. Live Demo - Vercel link:
+7. **Live Demo - Vercel link:**
    🔗 View the deployed project here:
-   https://your-project-name.vercel.app
+      https://your-project-name.vercel.app
 
