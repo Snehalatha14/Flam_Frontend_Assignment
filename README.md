@@ -44,7 +44,7 @@ This project is a dynamic, interactive **Custom Event Calendar** built with Reac
 4. **Run the development server:**
    ```bash
    npm start
-5.**Open the app:**
+5. **Open the app:**
    ```bash
    Open http://localhost:3000 in your browser to view the calendar.
 6. **Usage:**
