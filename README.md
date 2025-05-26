@@ -44,11 +44,11 @@ This project is a dynamic, interactive **Custom Event Calendar** built with Reac
 4. **Run the development server:**
    ```bash
    npm start
-   ---
-
 5.**Open the app:**
+   ```bash
    Open http://localhost:3000 in your browser to view the calendar.
 6. **Usage:**
+   ```bash
     Navigate through months using the arrow buttons.
     Click on any date to add a new event.
     Fill in the event form with title, time, description, recurrence, and optional color.
@@ -56,6 +56,7 @@ This project is a dynamic, interactive **Custom Event Calendar** built with Reac
     Drag and drop events to reschedule.
     Events are automatically saved and loaded from your browser’s local storage.
 7. **Live Demo - Vercel link:**
+   ```bash
    🔗 View the deployed project here:
       https://your-project-name.vercel.app
 
