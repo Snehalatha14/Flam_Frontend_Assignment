@@ -51,7 +51,7 @@ This project is a dynamic, interactive **Custom Event Calendar** built with Reac
    ```bash
     Navigate through months using the arrow buttons.
     Click on any date to add a new event.
-    Fill in the event form with title, time, description, recurrence, and optional color.
+    Fill in the event form with title, time, description, recurrence.
     Click on an event to edit or delete it.
     Drag and drop events to reschedule.
     Events are automatically saved and loaded from your browser’s local storage.
